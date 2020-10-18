@@ -20,26 +20,72 @@ Though Sabrina's exact origins still remain unknown, she and Homura both suspect
 
 # Basics
 
+Sabrina enjoys
+
 ### Physicals
 
+Placeholder
+
+#### Strength
+
+Placeholder
+
+#### Speed
+
+Placeholder
+
+#### Resilience
+
+Placeholder
+
 ### Other Abilities
+
+#### Transformation
+
+Placeholder
+
+#### Signature Weapon
+
+Placeholder
+
+#### Healing
+
+Placeholder
+
+#### Telepathy
+
+Placeholder
 
 ---
 
 # Wish Magic
 
+Placeholder
+
 ### Cleansing
+
+Placeholder
 
 ### Griefbending
 
+Placeholder
+
 ### Griefhax
+
+Placeholder
 
 ### Senses
 
+Placeholder
+
 ---
 
-# Meta-Knowledge
+# Metacognition
+
+Placeholder
 
 ---
 
 # Weaknesses
+
+Placeholder
