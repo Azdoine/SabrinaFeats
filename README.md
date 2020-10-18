@@ -6,9 +6,13 @@ This is where I'm drafting my Sabrina RT.
 
 ---
 
+*Sayaka sticks her tongue out at you, and then turns to Madoka. "Her brain damage is acting up again," she says in a stage whisper.*
+
+---
+
 # Bio
 
-A girl without a past, [Sabrina's](https://placeholder.com) first memories are of waking up on the brink of death, choosing to become a Magical Girl just to survive. However, armed with knowledge of invaluable allies and powerful secrets, as well as the priceless ability to break some of the most ironclad rules of magic, she quickly devoted herself to the task of saving herself and others from the brutal suffering and exploitation they endured under the Magical Girl system, choosing to nurture and protect her new life instead of searching for a history she mightn't even have.
+A girl without a past, [Sabrina's](https://placeholder.com) first memories are of waking up on the brink of death, quickly choosing to become a Magical Girl just to survive. However, armed with knowledge of invaluable allies and powerful secrets, as well as the priceless ability to break some of the most ironclad rules of magic, she immediately devoted herself to the task of saving herself and others from the brutal suffering and exploitation they endured under the Magical Girl system, and eventually resolved to nurture and protect her new life instead of searching for a history she mightn't even have.
 
 As a Magical Girl, Sabrina makes her home in Mitakihara city with her girlfriend, [Mami Tomoe](https://placeholder.com), and the rest of team White Ribbon ([Homura Akemi](https://placeholder.com), [Sayaka Miki](https://placeholder.com), [Madoka Kaname](https://placeholder.com) and [Hitomi Shizuki](https://placeholder.com)). Other major allies of hers include the [ruthlessly-befriended](https://tvtropes.org/pmwiki/pmwiki.php/Main/DefeatMeansFriendship) "Third Eye" pair ([Oriko Mikuni and Kirika Kure](https://placeholder.com)), the Pleiades Saints ([Kazumi, who used to be Mami's student, and her own pupils](https://placeholder.com)), and the Fukushima Mercenary Group (a group of freelancers in a mutual defense pact with White Ribbon). Her primary enemies are the manipulative [Incubators](https://placeholder.com), who created the Magical Girl system, and the enigmatic entity known only as ["Feathers"](https://placeholder.com).
 
@@ -22,6 +26,12 @@ Though Sabrina's exact origins still remain unknown, she and Homura both suspect
 
 ### Physicals
 
+#### Soul Gem
+
+Placeholder
+
+#### Resilience
+
 Placeholder
 
 #### Strength
@@ -32,10 +42,6 @@ Placeholder
 
 Placeholder
 
-#### Resilience
-
-Placeholder
-
 ### Other Abilities
 
 #### Transformation
@@ -43,6 +49,10 @@ Placeholder
 Placeholder
 
 #### Signature Weapon
+
+Placeholder
+
+#### Hammerspace
 
 Placeholder
 
@@ -79,6 +89,18 @@ Placeholder
 ---
 
 # Metacognition
+
+Placeholder
+
+### Canon Knowledge
+
+Placeholder
+
+### Education
+
+Placeholder
+
+### Multitasking
 
 Placeholder
 
