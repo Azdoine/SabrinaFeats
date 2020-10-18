@@ -20,8 +20,6 @@ Though Sabrina's exact origins still remain unknown, she and Homura both suspect
 
 # Basics
 
-Sabrina enjoys
-
 ### Physicals
 
 Placeholder
