@@ -60,6 +60,10 @@ Placeholder
 
 Placeholder
 
+#### Enchanting
+
+Placeholder
+
 #### Telepathy
 
 Placeholder
