@@ -96,15 +96,39 @@ Placeholder
 
 # Wish Magic
 
-Placeholder
+A Magical Girl's personal magic corresponds to the wish she makes in the terms of her contract with Kyubey. As Sabrina [wished to control "all Grief"](https://gist.github.com/Azdoine/cb3a2b5a5350775aca7d692d81ee7764) while posessing an unquantifiable level of magical potential, and magic itself is a function of emotions such as hope and despair, she recieved a particularly potent and open-ended form of meta-magic.
+
+Because Grief is the source of the powers that Witches wield, Sabrina is careful about wielding certain particularly "Witch-like" abilities in the presence of other Magical Girls (who can sense the dark magic, and often react badly to pronounced use of it). Such feats are marked with a † below, and may put her into a partial or complete trance as she performs them.
 
 ### Cleansing
 
-Placeholder
+Sabrina is able to directly withdraw Grief from an active receptacle (typically a Magical Girl's Soul Gem) and keep it under her control without needing to transfer it into another container (where it would torment its bearer at best, or transform them into a Witch at worst).
+
+* Cleanses # Soul Gems at a time.
+
+Sabrina is also able to extract the Grief contained within Grief Seeds - the transformed Soul Gems of Witches, which Magical Girls ordinarily need to hunt down in order to discharge Grief into.
+
+* Grief Seeds have a vastly greater capacity to hold Grief than Soul Gems do, [].
 
 ### Griefbending
 
-Placeholder
+Once taken under Sabrina's power (and not held by another or kept in another container), Grief manifests as a kind of idealized programmable matter which she can mentally move, reshape, and control at will.
+
+The maximum range of Sabrina's control under normal circumstances is 100 meters, and her Grief dissipates beyond this radius.
+
+* Reshapes Grief and passes it between solid, liquid, and gaseous phases at will.
+
+* Uses Grief implements to wreck a car and a horde of a Witch's Familiars.
+
+* Wrests control of Grief from a Witch and directly tears apart its Familiars, its Labyrinth, and its body.
+
+* Disperses inert 'solid' Grief into nanoparticles too small to see.
+
+  * Uses Grief nanoparticles to isolate and filter a noxious gas out of the atmosphere in real time.
+  
+  * Uses Grief nanoparticles to create an invisibly insulated air pocket.
+
+* Builds a purely mechanical spectrometer using nanoscale mechanisms and perfect optical materials.
 
 ### Griefhax
 
@@ -112,7 +136,15 @@ Placeholder
 
 ### Senses
 
-Placeholder
+Sabrina has total and passive proprioception over all Grief within her control radius.
+
+* Discerns Magical Girls (and those with the potential to become Magical Girls) by the presence of the concentrated and structured Grief within them.
+
+  * Senses a Magical Girl on the other side of an all-encompassing spatial distortion.
+  
+* Creates Grief nanostructures fine enough to detect the impacts of individual photons.
+  
+* Uses Grief nanoparticles for perfect three-dimensional tactile feedback.
 
 ---
 
