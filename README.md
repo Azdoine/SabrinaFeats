@@ -24,11 +24,35 @@ Though Sabrina's exact origins still remain unknown, she and Homura both suspect
 
 # Basics
 
+### Soul Gem
+
+#### Dissociation
+
+By virtue of being a Magical Girl, Sabrina's soul is seated within the Soul Gem she keeps on her person, rather than within her body. She is divorced from the limits and needs of her biological functions and can survive any amount of damage to her body so long as her Soul Gem remains intact.
+
+* Suppresses the pain of getting her leg blown off by explosives.
+  
+* Completely no-sells a noxious gas.
+  
+* Powers through getting her ribs caved in.
+  
+* Another Magical Girl uses the same power to survive getting bisected.
+
+#### Despair
+
+As Sabrina uses her magical powers and experiences negative emotions, the corruption known as 'Grief' builds up in her Soul Gem until it's cleansed. If her Gem fills up completely with Grief, without being discharged, then she loses her sanity and transforms into a tortured monster known as a Witch.
+
+* The presence of Grief within a Soul Gem encourages further negative emotions, opening the possibility of a runaway 'Grief Spiral'.
+
+* Unlike other Magical Girls, Sabrina is able to cleanse her own Soul Gem at will, so this represents a manageable condition rather than a defining restriction on her lifestyle or combat tactics. (See 'Cleansing', under 'Wish Magic' below.)
+
+#### Disconnection
+
+If Sabrina's Soul Gem and body are moved more than 100 meters apart - or her connection to her body is otherwise disrupted, e.g. by no longer having a body to go back to at all - then she falls unconscious until reconnected.
+
+* It's *possible* to learn to operate as a Soul Gem without a body, but Sabrina has yet to learn this skill.
+
 ### Physicals
-
-#### Soul Gem
-
-Placeholder
 
 #### Resilience
 
